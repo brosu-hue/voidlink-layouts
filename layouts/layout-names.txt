@@ -1,0 +1,56 @@
+01 FPS CoD Mobile
+02 FPS Claw
+03 FPS Gyro Aim
+04 Tactical Shooter
+05 Battle Royale
+06 Third-Person Shooter
+07 Cyberpunk RPG Shooter
+08 Tomb Raider Adventure
+09 Classic Gamepad
+10 Gamepad Big Buttons
+11 Gamepad Touch Aim
+12 Gamepad Gyro Aim
+13 Souls-like
+14 Hack and Slash
+15 Horror Survival
+16 Third-Person Gamepad
+17 Racing Tilt Steer
+18 Racing Tilt Big Pedals
+19 Racing Touch Wheel
+20 Racing Arcade Drift
+21 Driving Open World
+22 Flight and Space
+23 Platformer
+24 Fighting Game
+25 Football Sports
+26 Retro Emulator
+27 Strategy RTS
+28 Action RPG MOBA
+29 MMO
+30 Sandbox Survival
+PZ 1 First Person Survivor
+PZ 2 Melee Brawler
+PZ 3 Looter and Builder
+PZ 4 Gyro Gunner
+Claw FPS
+Claw Tactical
+Claw Battle Royale
+Claw Third-Person
+Claw RPG Shooter
+Claw Adventure
+Claw Sandbox
+Claw MMO
+Claw Zomboid
+Claw Zomboid Melee
+Claw Gamepad
+Claw Souls
+Claw Horror
+Claw Action Gamepad
+CarX Arrows Classic
+CarX Arrows Claw
+CarX Arrows Drift
+CarX Arrows Split
+CarX Tilt Pedals
+CarX Tilt Claw
+CarX Tilt Drift
+CarX Touch Wheel
