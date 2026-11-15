@@ -9,6 +9,7 @@ Moonlight fork for streaming PC games from Sunshine. Built for a small phone hel
 | File | What's inside |
 |---|---|
 | `layouts/voidlink-layouts.bin` | **56 layouts**: 30 genre styles, 14 four-finger claw layouts, 8 CarX Street racing layouts, 4 Project Zomboid first-person layouts. Names in `layouts/layout-names.txt`. |
+| `layouts/voidlink-desktop-layouts.bin` | **8 desktop layouts** for using Windows itself: trackpad, lefty trackpad, browser, office, files, window control, media, coding. |
 | `layouts/voidlink-steam-game-layouts.bin` | **205 per-game layouts**, each named after a Steam game and copied from the best-fitting style above. Which style each game got: `layouts/steam-game-layout-list.txt`. |
 
 ## Import
@@ -35,6 +36,16 @@ fighting, sports, retro, RTS, ARPG/MOBA, MMO, sandbox.
 
 **Project Zomboid (first person)**: for the *Project Viewpoint* mod. **1ST/3RD** presses `O`.
 
+**Desktop (everyday Windows use)**: the middle of the screen is an invisible trackpad (slide to move the
+mouse); CLICK, right-click and scroll on the right (left in *Lefty*); task shortcuts on the left; Esc,
+keyboard, Windows key and Alt+Tab along the top.
+`Desktop Trackpad, Lefty Trackpad, Browser, Office, Files, Windows, Media, Coding`
+Some shortcut buttons use key combinations that VoidLink's own widgets don't include (new/close/next tab,
+Back/Forward, address bar, Up a folder, New folder, Open file, command list, Untab, Comment, Terminal).
+They follow the same naming, but they are untested; if one does nothing, replace it in the layout editor.
+Media keys are YouTube's.
+
+![Desktop layouts](previews/desktop.png)
 ![Claw layouts](previews/claw.png)
 ![CarX Street layouts](previews/carx-street.png)
 ![30 styles](previews/styles-30.png)
